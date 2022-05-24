@@ -1,4 +1,4 @@
-# Sword Combat simulator for Discord ⚔️
+# Sword Combat (the role playing game) Simulator for Discord ⚔️
 **WIP** currently working offline. Haven't uploaded anything yet
 
 ## Planned Features ☑️
